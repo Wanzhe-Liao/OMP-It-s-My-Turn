@@ -1,0 +1,37 @@
+{
+  "name": "omp-its-my-turn",
+  "version": "0.1.0",
+  "description": "Its My Turn! Shared-context lead/worker model handoffs for omp.",
+  "license": "MIT",
+  "author": "Vincent L",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wanzhe-Liao/its-my-turn.git"
+  },
+  "homepage": "https://github.com/Wanzhe-Liao/its-my-turn#readme",
+  "bugs": {
+    "url": "https://github.com/Wanzhe-Liao/its-my-turn/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "type": "module",
+  "main": "./index.js",
+  "exports": "./index.js",
+  "omp": {
+    "extensions": [
+      "./index.js"
+    ]
+  },
+  "scripts": {
+    "test": "bun test"
+  },
+  "keywords": [
+    "omp",
+    "plugin",
+    "model-routing",
+    "coding-agent"
+  ]
+}

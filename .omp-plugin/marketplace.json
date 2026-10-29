@@ -1,0 +1,32 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "wanzhe-liao-plugins",
+  "owner": {
+    "name": "Vincent L"
+  },
+  "metadata": {
+    "description": "Shared-context multi-model tools for omp",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "its-my-turn",
+      "description": "Shared-context lead/worker model handoffs for omp",
+      "version": "0.1.0",
+      "source": "./",
+      "category": "development",
+      "homepage": "https://github.com/Wanzhe-Liao/its-my-turn",
+      "repository": "https://github.com/Wanzhe-Liao/its-my-turn",
+      "license": "MIT",
+      "author": {
+        "name": "Vincent L"
+      },
+      "tags": [
+        "omp",
+        "model-routing",
+        "multi-model",
+        "shared-context"
+      ]
+    }
+  ]
+}
