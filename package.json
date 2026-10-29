@@ -6,11 +6,11 @@
   "author": "Vincent L",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Wanzhe-Liao/its-my-turn.git"
+    "url": "git+https://github.com/Wanzhe-Liao/OMP-It-s-My-Turn.git"
   },
-  "homepage": "https://github.com/Wanzhe-Liao/its-my-turn#readme",
+  "homepage": "https://github.com/Wanzhe-Liao/OMP-It-s-My-Turn#readme",
   "bugs": {
-    "url": "https://github.com/Wanzhe-Liao/its-my-turn/issues"
+    "url": "https://github.com/Wanzhe-Liao/OMP-It-s-My-Turn/issues"
   },
   "files": [
     "index.js",

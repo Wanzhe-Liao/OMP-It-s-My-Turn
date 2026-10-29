@@ -45,13 +45,13 @@ worker 调用 `turn_ask` 时，必须给出：需要 lead 决定的问题、预�
 ### 从 GitHub 直接安装
 
 ```bash
-omp plugin install github:Wanzhe-Liao/its-my-turn
+omp plugin install github:Wanzhe-Liao/OMP-It-s-My-Turn
 ```
 
 ### 作为 omp marketplace 安装
 
 ```bash
-omp plugin marketplace add Wanzhe-Liao/its-my-turn
+omp plugin marketplace add Wanzhe-Liao/OMP-It-s-My-Turn
 omp plugin install its-my-turn@wanzhe-liao-plugins
 ```
 
